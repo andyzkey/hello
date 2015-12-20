@@ -1,0 +1,2 @@
+This is a binary file.
+So the EOLs should remain as \n, and not become \r\n.
