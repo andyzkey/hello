@@ -1,2 +1,2 @@
-This is a binary file, edited.
+THIS is a binary file, edited.
 So the EOLs should remain as \n, and not become \r\n.
